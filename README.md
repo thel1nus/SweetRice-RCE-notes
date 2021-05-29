@@ -9,4 +9,4 @@ I praticed this on this [Lab](https://tryhackme.com/room/lazyadmin)
 I saved my notes in .ctd extension, and opening it in plaintext is chaotic.
 You need to have specialized note-taking software in order to open this properly.
 One of many is [CherryTree](https://github.com/giuspen/cherrytree)
-After you open my notes with this file, it should be in I normal human-readable format.
+After you open my notes with this software, it should be in I normal human-readable format.
